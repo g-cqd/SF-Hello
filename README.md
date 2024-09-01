@@ -1,5 +1,7 @@
 # SF Hello
 
+![hello thumbnail](https://raw.githubusercontent.com/g-cqd/SF-Hello/main/hello.png)
+
 This repository contains Apple vectorial shapes for the famous "hello" word in every languages available.
 
 SVG are a direct conversion of the JSON files.
