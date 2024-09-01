@@ -12,6 +12,15 @@ You can convert them yourself using the script stored in this repository:
 python ./convert.py "path/to/input.json" "path/to/output.svg"
 ```
 
+
+## Authors
+
+- Gigi - [@g-cqd](https://github.com/g-cqd)
+- Jace - [@Soft-Bred](https://github.com/Soft-Bred)
+
+
+
 ## Note
+
 JSON files are owned by Apple.
 Copyright © 2020 Apple Inc. All rights reserved.
